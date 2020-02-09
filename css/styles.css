@@ -98,7 +98,14 @@ body{
     font-size: large;
 }
 
-
+.about  {
+    text-align: center;
+    height: 700px;
+    width: 100%;
+    background-color: rgb(243, 239, 239);
+    padding: 10px;
+    margin: 0;
+}
 
 
 
