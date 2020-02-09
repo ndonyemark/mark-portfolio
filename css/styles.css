@@ -24,3 +24,46 @@ body{
     text-decoration: none;
     text-align: center;
 }
+
+.header {
+    height: 780px;
+    width: 100%;
+    background: url("../imgs/mack.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: brightness(.9);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
