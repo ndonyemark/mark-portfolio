@@ -85,7 +85,18 @@ body{
     padding: 2px;
 }
 
+.projects-zone .projects .project-container a {
+    text-decoration: none;
+    text-align: center;
+    margin-left: 70px;
+}
 
+.button a   {
+    color: white;
+    text-decoration-style: none;
+    text-align: center;
+    font-size: large;
+}
 
 
 
