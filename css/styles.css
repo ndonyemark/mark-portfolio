@@ -149,6 +149,13 @@ body{
     background-color: lightslategrey;
 }
 
+.footer {
+    height: 130px;
+    background-color: rgb(223, 215, 215);
+    text-align: center;
+    padding: 5px;
+}
+
 
 
 
