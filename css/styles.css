@@ -122,7 +122,32 @@ body{
     padding: 10px;
 }
 
+.contact .contact-holder {
+    background: linear-gradient(gray, lightgray);
+    border: 1px solid black;
+    width: 800px;
+    height: 280px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px   ;
+}
 
+.contact .contact-holder form input[type=text], input[type=email], textarea {
+    width: 500px;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: lightgrey;
+    margin-top: 5px;
+    text-align: center;
+
+}
+
+.contact .contact-holder form input[type=submit] {
+    width: 500px;
+    height: 30px;
+    background-color: lightslategrey;
+}
 
 
 
